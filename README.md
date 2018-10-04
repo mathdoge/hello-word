@@ -1,3 +1,3 @@
 # hello-word
 just my first repository
-gyugh
+我第一个项目仓库
